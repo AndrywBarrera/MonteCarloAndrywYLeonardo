@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11605.240 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulacionMonteCarlo", "SimulacionMonteCarlo.csproj", "{A52CB4D6-7B28-4526-853D-B647FB643F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52CB4D6-7B28-4526-853D-B647FB643F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52CB4D6-7B28-4526-853D-B647FB643F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52CB4D6-7B28-4526-853D-B647FB643F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52CB4D6-7B28-4526-853D-B647FB643F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C67AAF-73B0-4424-8B44-A42F9B24A7CA}
+	EndGlobalSection
+EndGlobal
